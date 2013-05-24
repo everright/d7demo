@@ -1,0 +1,13 @@
+name = "Entity cache test dependency"
+description = "Support dependency module for testing entity cache."
+package = Testing
+version = VERSION
+core = 7.x
+hidden = TRUE
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

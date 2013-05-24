@@ -1,0 +1,14 @@
+name = Tracker
+description = Enables tracking of recent content for users.
+dependencies[] = comment
+package = Core
+version = VERSION
+core = 7.x
+files[] = tracker.test
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

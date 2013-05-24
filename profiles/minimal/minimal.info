@@ -1,0 +1,13 @@
+name = Minimal
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

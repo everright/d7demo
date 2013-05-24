@@ -1,0 +1,14 @@
+name = Update manager
+description = Checks for available updates, and can securely install or update modules and themes via a web interface.
+version = VERSION
+package = Core
+core = 7.x
+files[] = update.test
+configure = admin/reports/updates/settings
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

@@ -1,0 +1,12 @@
+name = Testing
+description = Minimal profile for running tests. Includes absolutely required modules only.
+version = VERSION
+core = 7.x
+hidden = TRUE
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

@@ -1,0 +1,17 @@
+name = Forum
+description = Provides discussion forums.
+dependencies[] = taxonomy
+dependencies[] = comment
+package = Core
+version = VERSION
+core = 7.x
+files[] = forum.test
+configure = admin/structure/forum
+stylesheets[all][] = forum.css
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

@@ -1,0 +1,13 @@
+name = Blog
+description = Enables multi-user blogs.
+package = Core
+version = VERSION
+core = 7.x
+files[] = blog.test
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+

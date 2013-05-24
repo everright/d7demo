@@ -1,0 +1,13 @@
+name = Database logging
+description = Logs and records system events to the database.
+package = Core
+version = VERSION
+core = 7.x
+files[] = dblog.test
+
+
+; Information added by drush on 2013-05-24
+version = "unknown"
+project = "pressflow"
+datestamp = "1369376210"
+
