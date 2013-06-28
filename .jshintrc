@@ -1,0 +1,22 @@
+{
+"browser"     : true, // if the standard browser globals should be predefined
+"curly"       : true, // if curly braces around all blocks should be required
+"eqeqeq"      : true, // if === should be required
+"es5"         : true, // if ES5 syntax should be allowed
+"immed"       : true, // if immediate invocations must be wrapped in parens
+"jquery"      : true, // if jQuery globals should be predefined
+"newcap"      : true, // if constructor names must be capitalized
+"noarg"       : true, // if arguments.caller and arguments.callee should be
+"noempty"     : true, // if empty blocks should be disallowed
+"nomen"       : true, // if names should be checked
+"regexp"      : true, // if the . should not be allowed in regexp literals
+"undef"       : true, // if variables should be declared before used
+"scripturl"   : true, // if script-targeted URLs should be tolerated
+"strict"      : true, // require the "use strict"; pragma
+"trailing"    : true, // if trailing whitespace rules apply
+"forin"       : true, // if for in statements must filter
+"camelcase"   : true, // if identifiers should be required in camel case
+"indent"      : 2,
+"predef"      : ["Drupal"],
+"maxerr"      : 1000
+}
